@@ -13,7 +13,6 @@ body{
 }
 
 .cabecera img{
-width: 20%;
 margin: 10px 0 10px 0; 
 float: center;
 }
@@ -55,15 +54,11 @@ text-align: center;
 }
 
 .container{
-
 margin-bottom: 40px;
 margin-top: 40px;
 height: 600px;
 }
 
-.container img{
-
-}
 
 .container table {
   font-family: Arial;
